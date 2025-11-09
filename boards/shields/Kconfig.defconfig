@@ -1,0 +1,6 @@
+if SHIELD_TOPUFAER
+
+config ZMK_KEYBOARD_NAME
+    default "TopuFaer"
+
+endif
